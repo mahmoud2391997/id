@@ -14,7 +14,7 @@ class _CalendarScreenState extends State<CalendarScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Calendar"),
+        child: Text("notification"),
       ),
     );
   }
