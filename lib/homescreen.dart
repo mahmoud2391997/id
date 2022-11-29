@@ -17,8 +17,8 @@ class _HomeScreenState extends State<HomeScreen> {
   Color primary = const Color(0xffeef444c);
   int currentIndex = 0;
   List<IconData> navigationIcons = [
-    FontAwesomeIcons.calendarAlt,
-    FontAwesomeIcons.check,
+    FontAwesomeIcons.bell,
+    FontAwesomeIcons.candyCane,
     FontAwesomeIcons.userAlt,
   ];
 
